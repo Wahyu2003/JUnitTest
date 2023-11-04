@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "313786622516",
+    "project_id": "authentification-a9368",
+    "storage_bucket": "authentification-a9368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313786622516:android:5cefe99465b73da7ac2061",
+        "android_client_info": {
+          "package_name": "com.my.junitetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYqg4PW2X_U3_U7c2Qkv3mISuWAM4cU6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313786622516:android:8c2e0b10b9aa6cd1ac2061",
+        "android_client_info": {
+          "package_name": "com.my.junittest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYqg4PW2X_U3_U7c2Qkv3mISuWAM4cU6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
